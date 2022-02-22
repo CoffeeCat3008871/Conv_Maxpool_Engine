@@ -1,0 +1,10 @@
+Sat Feb 20 21:41:17 2021: Server was asked to start on port: '35149'
+Sat Feb 20 21:41:17 2021: Server is using token UUID: '974c5e2c-fc6b-4704-8de9-e85e1c8fe127'
+Sat Feb 20 21:41:17 2021: Attempting to start server on port '35149'
+Sat Feb 20 21:41:17 2021: XRC main fifo: created main fifo '/tmp/xrcmain974c5e2c-fc6b-4704-8de9-e85e1c8fe127', fd read = 15
+Sat Feb 20 21:41:17 2021: Running Rule Check Server
+Sat Feb 20 21:41:17 2021: Version 1.6.1
+Sat Feb 20 21:41:17 2021: Rule Check Server: Accepted socket connection from client
+Sat Feb 20 21:41:17 2021: EXCHANGE_TOKEN received, server token: 974c5e2c-fc6b-4704-8de9-e85e1c8fe127, passed token: 974c5e2c-fc6b-4704-8de9-e85e1c8fe127
+Sat Feb 20 21:41:17 2021: SESSION_MGR: creating session with session uuid: '9ced0320-9d59-413a-9a60-89a12b9f6c9f' and name 'v++_link_fpgabinary.sw_emu'
+Sat Feb 20 21:41:28 2021: SESSION_MGR: closing session for UUID '9ced0320-9d59-413a-9a60-89a12b9f6c9f' with name 'v++_link_fpgabinary.sw_emu'
